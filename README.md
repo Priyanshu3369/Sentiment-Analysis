@@ -21,3 +21,11 @@ This project is a **Sentiment Analysis** application built using **Natural Langu
 - **Libraries Used**:
   - 📚 [NLTK](https://www.nltk.org/): Natural Language Toolkit for text processing.
   - 📊 [scikit-learn](https://scikit-learn.org/stable/): For building and evaluating the logistic regression model.
+
+---
+
+## 📊 Dataset
+The dataset used for this project is large and can be downloaded from the following link:  
+[🔗 Download Dataset](https://www.kaggle.com/columbine/imdb-dataset-sentiment-analysis-in-csv-format/download)
+
+---
